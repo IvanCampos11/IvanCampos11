@@ -4,5 +4,16 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ivan.4.campos@gmail.com)
 
 Student at Lambda School | Data Science | Machine Learning | Deep Learning | Software Engineer | Python | Team-work oriented
+## Technologies :fire:
+- Data Analysis with **Python**.
+- Data Science.
+- Python.
+- Java
+- Machine Learning
+- Deep Learning
+- Pandas
+- Tensorflow
+- Scikit-Learn
+
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=ivancampos11&show_icons=true&hide_border=true" />
