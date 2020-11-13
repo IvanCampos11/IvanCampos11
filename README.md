@@ -14,7 +14,6 @@ Student at Lambda School for DataScience. Passionate about Data Science, Machine
 - Data Analysis with **Python**.
 - Data Science.
 - Python.
-- Java
 - Machine Learning
 - Deep Learning
 - Pandas
