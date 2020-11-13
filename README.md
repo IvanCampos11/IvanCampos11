@@ -6,7 +6,7 @@
 Student at Lambda School | Data Science | Machine Learning | Deep Learning | Software Engineer | Python | Team-work oriented
 
 ## About :sunglasses:
-Student at Lambda School for DataScience. Passionate about Data Science, Machine Learning and open source. Also, have some experience in Web App development and Data Analysis.
+Student at Lambda School for Data Science. Passionate about Data Science and programming all together, Machine Learning and open source. Also, have some experience in Web App development and Data Analysis.
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=ivancampos11&show_icons=true&hide_border=true" />
 
